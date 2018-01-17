@@ -1,40 +1,52 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
+  "squadName" : "The Oderanti Family",
+  "homeTown" : "Ode Omu",
+  "formed" : 'September 2010',
+  "secretBase" : "Owode Ede",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "Obafemi",
+      "age" : 40,
+      "secretIdentity" : "Adisa",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "Reading",
+        "Travelling",
+        "Agriculture"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "name" : "Oyetoke",
+      "age" : 36,
+      "secretIdentity" : "Agbeke",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "Shopping",
+        "Cooking",
+        "Travelling"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "Demilade",
+      "age" : 4,
+      "secretIdentity" : "Alade",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "Playing",
+        "Reading",
+        "Watching Cartoon",
+        "Singing",
+        "Doing his Assignments"
+      ]
+    },
+    {
+      "name" : "Damilola",
+      "age" : 2.5,
+      "secretIdentity" : "Akande",
+      "powers" : [
+        "Eating",
+        "Singing",
+        "Playing",
+        "Copying his brother",
+        "Independence"
       ]
     }
   ]
