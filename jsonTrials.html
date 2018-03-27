@@ -83,7 +83,7 @@ h2 {
     var request = new XMLHttpRequest();
     request.open('GET', requestURL);
     request.responseType = 'json';
-    request.send();
+    //request.send();
 
     request.onload = function() {
     var superHeroes = request.response;
@@ -132,7 +132,7 @@ h2 {
     section.appendChild(myArticle);
   }
 }
-
+request.send();
     </script>
   </body>
 </html>
